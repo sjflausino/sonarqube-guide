@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings
+target
+target/
+target/classes target/sonar target/test-classes
+note.txt
