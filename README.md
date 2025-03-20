@@ -23,7 +23,7 @@ Este guia descreve os passos necessários para instalar e configurar o SonarQube
 4. **Configurar o token de autenticação do SonarQube:**
     Exporte o token de autenticação do SonarQube como uma variável de ambiente. Substitua `'sqa_64f5653cbdcb1b1f1efeec7d425f4d5fff6da7be'` pelo seu token real.
     ```sh
-    export SONAR_TOKEN='sqa_64f5653cbdcb1b1f1efeec7d425f4d5fff6da7be'
+    export SONAR_TOKEN='sqa_8815a19ad832f2c36156b41a50b7fea42f393c8b'
     ```
 
 5. **Executar a análise do SonarQube:**
